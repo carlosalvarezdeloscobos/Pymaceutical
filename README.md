@@ -1,4 +1,4 @@
-# Testing a drug-regim trial
+# Testing drug-regimens  
 
 ## Background
 
