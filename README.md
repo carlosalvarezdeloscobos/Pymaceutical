@@ -9,16 +9,16 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 
 ## Findings
 
-xxxxxxxxx
+Ramicane and Capomulin regimens had the most significant impact in decreasing the tumor volume (on average 35 mm3 and 38 mm3 respectively)
 
 ![gf1](Images/gf1.png)
 
-xxxxxxxxx
+Considering all the drug regimens, the tumor volume decreased 95% on average within the forty timepoints.
 
 
 ![gf1](Images/gf2.png)
 
-xxxxxxxx
+Considering all the drug regimens, the correlation between the mice weight and the tumor volume is significant (.84); mice with more weight had a higher tumor volume
 
 
 ![gf1](Images/gf3.png)
