@@ -10,6 +10,6 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 ## Findings
 
 
-![Laboratory](Images/gf1.jpg)
+![gf1](Images/gf1.jpg)
 
 
